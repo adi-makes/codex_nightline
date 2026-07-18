@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef0ff"/><stop offset="1" stop-color="#dff5fb"/></linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5cc2df"/><stop offset="1" stop-color="#a7e1ea"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <circle cx="968" cy="154" r="57" fill="#ffb36e"/>
+  <path d="M0 478c230-55 396 52 628 4 210-43 350-110 572-38v186H0Z" fill="url(#water)"/>
+  <g fill="none" stroke="#fff" stroke-width="5" opacity=".56"><path d="M0 521c238-55 429 59 674 6s356-91 526-45"/><path d="M0 563c245-54 439 50 676 1s350-91 524-37"/></g>
+  <g transform="translate(795 242)"><path d="M38 0h84v28H38z" fill="#33454b"/><path d="M50 28h60v212H50z" fill="#f7f3eb"/><path d="M50 76h60v31H50zm0 65h60v31H50z" fill="#33454b"/><path d="M29 240h103l-20 28H50z" fill="#33454b"/></g>
+  <text x="105" y="230" fill="#242336" font-family="Arial, sans-serif" font-size="70" font-weight="600">Ask <tspan fill="#6559ed">Kochi</tspan></text>
+  <text x="108" y="301" fill="#565b6d" font-family="Arial, sans-serif" font-size="31">Your local city companion.</text>
+  <text x="108" y="351" fill="#565b6d" font-family="Arial, sans-serif" font-size="31">Places, food, events, and little discoveries.</text>
+  <path d="m111 415 8 29 29 8-29 8-8 29-8-29-29-8 29-8z" fill="#6559ed"/>
+</svg>
