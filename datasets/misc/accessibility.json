@@ -1,0 +1,44 @@
+[
+  {
+    "id": "access-metro",
+    "subject": "Kochi Metro",
+    "accessibility_features": [
+      "lifts",
+      "escalators",
+      "disabled access",
+      "ticket counters"
+    ],
+    "advice": "Most stations are designed for step-free access; confirm station-specific washroom and parking availability.",
+    "estimated": true
+  },
+  {
+    "id": "access-fort-kochi",
+    "subject": "Fort Kochi heritage area",
+    "accessibility_features": [
+      "some level waterfront paths"
+    ],
+    "advice": "Uneven pavements, narrow lanes and older buildings can be challenging. A companion or accessible taxi is useful.",
+    "estimated": true
+  },
+  {
+    "id": "access-malls",
+    "subject": "LuLu Mall and modern malls",
+    "accessibility_features": [
+      "lifts",
+      "accessible washrooms",
+      "parking",
+      "wide corridors"
+    ],
+    "advice": "Modern malls are among the most reliable accessible indoor destinations.",
+    "estimated": true
+  },
+  {
+    "id": "access-ferries",
+    "subject": "Ferries and Water Metro",
+    "accessibility_features": [
+      "varies by vessel and terminal"
+    ],
+    "advice": "Ask terminal staff about boarding assistance and current accessibility before travel.",
+    "estimated": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "weather-heat",
+    "condition": "Heat and humidity",
+    "advice": "Schedule outdoor walks before 10:00 or after 16:00, drink water and use sun protection.",
+    "months": "March–May, often also humid year-round",
+    "estimated": true
+  },
+  {
+    "id": "weather-monsoon",
+    "condition": "Heavy monsoon rain",
+    "advice": "Carry rain protection, waterproof electronics and flexible reservations; check transit before departure.",
+    "months": "June–September",
+    "estimated": true
+  },
+  {
+    "id": "weather-thunderstorm",
+    "condition": "Thunderstorms",
+    "advice": "Avoid open waterfronts, beaches and exposed areas during lightning; seek a substantial indoor building.",
+    "months": "Pre-monsoon and monsoon periods",
+    "estimated": true
+  },
+  {
+    "id": "weather-pleasant",
+    "condition": "Drier touring weather",
+    "advice": "Book popular stays early around Christmas, New Year and art-festival periods.",
+    "months": "October–February",
+    "estimated": true
+  }
+]

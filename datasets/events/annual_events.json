@@ -1,0 +1,32 @@
+[
+  {
+    "id": "event-kochi-muziris-biennale",
+    "name": "Kochi-Muziris Biennale",
+    "category": "contemporary art",
+    "typical_period": "Usually December–March in biennale editions",
+    "locations": [
+      "Fort Kochi",
+      "Mattancherry",
+      "Ernakulam"
+    ],
+    "description": "International contemporary-art festival staged across heritage warehouses and public venues.",
+    "planning_notes": "Dates and venues vary by edition; book Fort Kochi accommodation early.",
+    "source": "Kochi Biennale Foundation",
+    "last_verified": "2026-07-17",
+    "estimated": true
+  },
+  {
+    "id": "event-cochin-carnival",
+    "name": "Cochin Carnival",
+    "category": "cultural carnival",
+    "typical_period": "Last week of December; climax on 1 January",
+    "locations": [
+      "Fort Kochi"
+    ],
+    "description": "Year-end street celebrations, parades and cultural programmes in Fort Kochi.",
+    "planning_notes": "Expect road closures and very high crowds on New Year's Eve and Day.",
+    "source": "Local tourism and event information",
+    "last_verified": "2026-07-17",
+    "estimated": true
+  }
+]

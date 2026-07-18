@@ -1,0 +1,81 @@
+[
+  {
+    "id": "restaurant-thattukada-near-kaloor-junction",
+    "name": "Thattukada near Kaloor Junction",
+    "cuisine": "Kerala street food",
+    "veg": true,
+    "non_veg": true,
+    "halal": null,
+    "jain_options": false,
+    "price_range": "₹",
+    "average_cost_two": 250,
+    "must_try": [
+      "kappa",
+      "egg roast",
+      "chai"
+    ],
+    "description": "Popular Kochi kerala street food dining option.",
+    "latitude": 9.9944,
+    "longitude": 76.2929,
+    "address": "Kaloor Junction, Ernakulam",
+    "phone": null,
+    "website": null,
+    "opening_hours": "11:00–23:00",
+    "rating": null,
+    "review_count": null,
+    "parking": "None",
+    "air_conditioned": false,
+    "family_friendly": true,
+    "student_friendly": false,
+    "delivery": true,
+    "takeaway": true,
+    "dine_in": true,
+    "wheelchair_accessible": false,
+    "tags": [
+      "kaloor",
+      "thattukada",
+      "late night",
+      "budget"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "restaurant-fort-kochi-beach-snack-stalls",
+    "name": "Fort Kochi Beach Snack Stalls",
+    "cuisine": "Kerala snacks",
+    "veg": true,
+    "non_veg": true,
+    "halal": null,
+    "jain_options": false,
+    "price_range": "₹",
+    "average_cost_two": 300,
+    "must_try": [
+      "pazham pori",
+      "fresh fried fish"
+    ],
+    "description": "Popular Kochi kerala snacks dining option.",
+    "latitude": 9.9648,
+    "longitude": 76.2416,
+    "address": "Fort Kochi Beach, Kochi",
+    "phone": null,
+    "website": null,
+    "opening_hours": "11:00–23:00",
+    "rating": null,
+    "review_count": null,
+    "parking": "Limited",
+    "air_conditioned": false,
+    "family_friendly": true,
+    "student_friendly": false,
+    "delivery": true,
+    "takeaway": true,
+    "dine_in": true,
+    "wheelchair_accessible": false,
+    "tags": [
+      "fort kochi",
+      "street food",
+      "sunset",
+      "snacks"
+    ],
+    "estimated": true
+  }
+]

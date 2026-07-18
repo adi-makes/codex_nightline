@@ -1,0 +1,53 @@
+[
+  {
+    "id": "festival-onam",
+    "name": "Onam",
+    "category": "Kerala harvest festival",
+    "typical_period": "August–September",
+    "description": "Kerala's major harvest festival, with sadya feasts, pookalam flower carpets and cultural events.",
+    "where_to_experience": [
+      "Tripunithura",
+      "Ernakulam",
+      "hotels and cultural venues"
+    ],
+    "tags": [
+      "onam",
+      "sadya",
+      "pookalam",
+      "kerala"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "festival-athachamayam",
+    "name": "Athachamayam",
+    "category": "cultural procession",
+    "typical_period": "August–September, preceding Onam",
+    "description": "Colourful Tripunithura procession that marks the Onam season.",
+    "where_to_experience": [
+      "Tripunithura"
+    ],
+    "tags": [
+      "onam",
+      "tripunithura",
+      "procession"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "festival-shivaratri-aluv a",
+    "name": "Aluva Sivarathri",
+    "category": "Hindu festival",
+    "typical_period": "February–March",
+    "description": "Large Shivaratri observance on the Periyar riverbank at Aluva.",
+    "where_to_experience": [
+      "Aluva Manappuram"
+    ],
+    "tags": [
+      "shivaratri",
+      "aluva",
+      "temple"
+    ],
+    "estimated": true
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "restaurant-best-bakers",
+    "name": "Best Bakers",
+    "cuisine": "Bakery and snacks",
+    "veg": true,
+    "non_veg": true,
+    "halal": null,
+    "jain_options": false,
+    "price_range": "₹",
+    "average_cost_two": 300,
+    "must_try": [
+      "puffs",
+      "plum cake"
+    ],
+    "description": "Popular Kochi bakery and snacks dining option.",
+    "latitude": 9.977,
+    "longitude": 76.286,
+    "address": "MG Road, Ernakulam",
+    "phone": null,
+    "website": null,
+    "opening_hours": "11:00–23:00",
+    "rating": null,
+    "review_count": null,
+    "parking": "Limited",
+    "air_conditioned": false,
+    "family_friendly": true,
+    "student_friendly": false,
+    "delivery": true,
+    "takeaway": true,
+    "dine_in": true,
+    "wheelchair_accessible": false,
+    "tags": [
+      "ernakulam",
+      "bakery",
+      "snacks"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "restaurant-pandhal-cake-shop",
+    "name": "Pandhal Cake Shop",
+    "cuisine": "Bakery and desserts",
+    "veg": true,
+    "non_veg": true,
+    "halal": null,
+    "jain_options": false,
+    "price_range": "₹₹",
+    "average_cost_two": 700,
+    "must_try": [
+      "cakes",
+      "brownies"
+    ],
+    "description": "Popular Kochi bakery and desserts dining option.",
+    "latitude": 9.9681,
+    "longitude": 76.3034,
+    "address": "Panampilly Nagar, Kochi",
+    "phone": null,
+    "website": null,
+    "opening_hours": "11:00–23:00",
+    "rating": null,
+    "review_count": null,
+    "parking": "Limited",
+    "air_conditioned": true,
+    "family_friendly": true,
+    "student_friendly": false,
+    "delivery": true,
+    "takeaway": true,
+    "dine_in": true,
+    "wheelchair_accessible": false,
+    "tags": [
+      "panampilly nagar",
+      "bakery",
+      "dessert"
+    ],
+    "estimated": true
+  }
+]

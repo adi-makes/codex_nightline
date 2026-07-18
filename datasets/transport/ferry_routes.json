@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ferry-ernakulam-fort-kochi",
+    "from_terminal": "ferry-ernakulam-boat-jetty",
+    "to_terminal": "ferry-fort-kochi-ferry-terminal",
+    "operator": "Kerala State Water Transport / Water Metro",
+    "distance_km": 4.2,
+    "travel_time_minutes": 20,
+    "fare": 20,
+    "frequency": "Check current timetable",
+    "estimated": true
+  },
+  {
+    "id": "ferry-fort-kochi-vypeen",
+    "from_terminal": "ferry-fort-kochi-ferry-terminal",
+    "to_terminal": "ferry-vypeen-ferry-terminal",
+    "operator": "Kerala State Water Transport",
+    "distance_km": 1.5,
+    "travel_time_minutes": 10,
+    "fare": 6,
+    "frequency": "Frequent daytime service; check current timetable",
+    "estimated": true
+  },
+  {
+    "id": "water-metro-highcourt-vypeen",
+    "from_terminal": "ferry-high-court-water-metro-terminal",
+    "to_terminal": "ferry-vypeen-ferry-terminal",
+    "operator": "Kochi Water Metro",
+    "distance_km": 3.0,
+    "travel_time_minutes": 15,
+    "fare": 20,
+    "frequency": "Check current timetable",
+    "estimated": true
+  }
+]
